@@ -12,4 +12,5 @@ fun main() {
     }
 
     println(result)
+    println("Name: ${person.name} Age: ${person.age}")
 }

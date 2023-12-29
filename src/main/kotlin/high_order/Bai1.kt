@@ -5,7 +5,7 @@ package high_order
 //}
 //fun add(x:Int ,y:Int)=x+y
 //fun subtract(x:Int,y:Int)=x-y
-//fun main() {
+//fun oop.main() {
 //    val sum = performOperation(5, 10,::add)
 //    val difference = performOperation(20, 7,::subtract)
 //    println("Sum: $sum, Difference: $difference")

@@ -15,7 +15,7 @@
 //}
 //
 //// Sử dụng hàm isEvenNumber để kiểm tra số và hiển thị kết quả
-//fun main() {
+//fun oop.main() {
 //    val numberToCheck = 10
 //
 //    isEvenNumber(numberToCheck)

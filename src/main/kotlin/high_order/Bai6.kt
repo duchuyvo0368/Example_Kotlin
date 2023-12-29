@@ -1,6 +1,6 @@
 package high_order
 //
-//fun main(args: Array<String>) {
+//fun oop.main(args: Array<String>) {
 //    val add = returnMeAddFunction()
 //    val result = add(10, 20)
 //    println("10 + 20 = ${result}")
